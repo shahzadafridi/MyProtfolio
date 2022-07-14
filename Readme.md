@@ -1,5 +1,31 @@
+<!-- Your title -->
+## I'm Shahzad Afridi, a Developer 🚀 from Pakistan.
 
-## 🧑‍🚀 Talking about Personal Stuffs:
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shahzadafridi)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imshahzadafridi/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/shahzadafridia1)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/realtimecoding)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shahzadahmadafridi@gmail.com)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://realtimecoding.com/)
+&nbsp;
+
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>A highly resourceful android developer. Proficient in Java, Kotlin and version control framework. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=shahzadafridi" alt="https://github.com/shahzadafridi" />
+</p>
+
+<hr>
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="390" height="240" />
+
+### Talking about Personal Stuffs:
 - 🛠 &nbsp; I’m currently working with Android, Kotlin, Java, Laravel lumen Graphql, MySQL, ROOM/SQLite, AWS and firebase.
 - 🚀 &nbsp; I’m always learning to keep myself updated with latest stuff.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shahzadafridi).
@@ -9,9 +35,10 @@
 - 🎥 &nbsp; Wants to learn android development? [Checkout My Youtube Channel ](https://www.youtube.com/channel/UCEw8TWSpI1sgcpv1_dmi8qg)
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
 - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="shahzadafridi" height="20" width="20" /> Checkout my [Profile](https://stackoverflow.com/users/6672577/shahzad-afridi).
+  
+<hr>
  
- 
-## 🧑‍🚀 Work Experience
+## 📜 Work Experience
 
 **Senior Software Engineer (Android)** 
 [**Tentwenty**](https://www.tentwenty.me/) • Full-time  🗓 Jul 2021 – May 2022 🏣 Islamabad, Pakistan 🕓  11 mos
@@ -49,7 +76,7 @@
 - Most of the projects didn't mention in my CV due to the agreement not making them public. During my freelancing career, I have worked most the with Google maps, location, Firebase, Bug fixes, Improvements, Play console issues,s and Working on Custom requirements based solution android app for the client.
 
 
-## 🧑‍🚀 Skills set
+## 💪 Skills set
 
 
  |  Category | Skills |
@@ -71,7 +98,7 @@
 etc....
   
 
-## 🧑‍🚀 Languages & Tools
+## 🧑‍💻 Languages & Tools
 
 <table>
   <tr>
@@ -148,13 +175,26 @@ etc....
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
       </a>
       <br>Android Studio
+    </td>	
+</td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" width="48" height="48" alt="Json" />
+      </a>
+      <br>Json
+    </td>
+</td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
     </td>
   </tr>
 </table>
- 
 
 
-## 🧑‍🚀 Projects
+## 📽 Projects
   <table>
     <thead align="center">
       <tr border: none;>
@@ -216,7 +256,7 @@ mote Config, Firebase Database), MVC, Retrofit, REST API, XD Design to XML, MQQT
   
   
   
-## 🧑‍🚀 Open Source Projects
+## 📖 Open Source Projects
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -257,14 +297,14 @@ mote Config, Firebase Database), MVC, Retrofit, REST API, XD Design to XML, MQQT
 
 					  
 					  
-## 🧑‍🚀 Github Statistics
+## 📊 Github Statistics
   
 | Profile   | Languages  |
 | ------------ | ------------ |
 | <a href="https://github.com/shahzadafridi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzadafridi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>   |  <a href="https://github.com/shahzadafridi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzadafridi&layout=compact&theme=buefy&hide_border=true" /></a>  |
 
 
-## 🧑‍🚀 Latest Tweets
+## 📰 Latest Tweets
 
  | Shahzad Afridi (@codewithafridi) |  Realtime Coding (@rtcoding)  |
 | :------------ | :------------ |
