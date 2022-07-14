@@ -49,7 +49,92 @@
 - Was level 2 Seller on Fiverr with having the majority of 5 Stars reviews and Provided quality work to all my clients.
 - Most of the projects didn't mention in my CV due to the agreement not making them public. During my freelancing career, I have worked most the with Google maps, location, Firebase, Bug fixes, Improvements, Play console issues,s and Working on Custom requirements based solution android app for the client.
 
+
 ------------
+
+### 🧑‍🚀 Languages & Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" />
+      </a>
+      <br>Android
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
+      </a>
+      <br>Kotlin
+    </td>
+	   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="48" height="48" alt="Gradle" />
+      </a>
+      <br>Gradle
+    </td>
+	   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
+	   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+	   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+	   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+      </a>
+      <br>SQLite
+    </td>
+	   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="My SQL" />
+      </a>
+      <br>My SQL
+    </td>
+		   </td>
+	  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
+      </a>
+      <br>Android Studio
+    </td>
+  </tr>
+</table>
+ 
+ 
+ ------------
 
 ### 🧑‍🚀 Projects
   <table>
