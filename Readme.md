@@ -1,5 +1,5 @@
 
-### Talking about Personal Stuffs:
+## 🧑‍🚀 Talking about Personal Stuffs:
 - 🛠 &nbsp; I’m currently working with Android, Kotlin, Java, Laravel lumen Graphql, MySQL, ROOM/SQLite, AWS and firebase.
 - 🚀 &nbsp; I’m always learning to keep myself updated with latest stuff.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shahzadafridi).
@@ -12,7 +12,7 @@
  
 ------------
  
-### Work Experience
+## 🧑‍🚀 Work Experience
 
 **Senior Software Engineer (Android)** 
 [**Tentwenty**](https://www.tentwenty.me/) • Full-time  🗓 Jul 2021 – May 2022 🏣 Islamabad, Pakistan 🕓  11 mos
@@ -52,7 +52,31 @@
 
 ------------
 
-### 🧑‍🚀 Languages & Tools
+## 🧑‍🚀 Skills set
+
+
+ |  Category | Skills |
+| ------------ | ------------ |
+|  UI | Material Design, Jetpack Compose UI |
+| Android Core  | Broadcast Receivers, Services, Flavours |
+| Music  | Media Player, Exo Player|
+|  Databases | Firebase, MySQL, Room , AWS  |
+|  Architecture & Desing Pattern  | MVVM, MVP, MVC, Modularizaition, Clean Archtecture  |
+| Jetpack Libraries   | Paging, Coroutines, LiveData , Flow, Work Manger, Data Store, Dagger Hilt, Jetpack Navigation, Jetpack Compose (Beginner Level) |
+| Payment Gateway’s  | JazzCash, EasyPaisa, Pay- fort, Google Billing SDK, In App purchase  |
+| Backend Integration  |  GraphQL, Appolo Client, Rest API |
+| Firebase  |  App Distribution, Crashlytics, Ana- lytics, Storage, Firestore, Realtime Database, Authentication, FCM, Remote Config, Dynamic Links  |
+| SDUI (Server Driven UI)  |  Epoxy, Pattern designing, Mapping, Error Handling, Forum Builder, Custom Component designing  |
+|  Google Maps & Location services | Realtime Tracking apps and Map related functionality, Geo fencing, Uber clone etc  |
+| CICD | Github Action (With Firebase Distribution  PlayStore), Bitrise, Fastlane(with Firebase Distribution) |
+| VCS | Git, Github, Gitlab, Bitbucket |
+| Other |Custom Library , SDK designing ||
+etc....
+  
+
+------------
+
+## 🧑‍🚀 Languages & Tools
 
 <table>
   <tr>
@@ -136,7 +160,7 @@
  
  ------------
 
-### 🧑‍🚀 Projects
+## 🧑‍🚀 Projects
   <table>
     <thead align="center">
       <tr border: none;>
@@ -200,7 +224,7 @@ mote Config, Firebase Database), MVC, Retrofit, REST API, XD Design to XML, MQQT
   ------------
   
   
-  ### 🧑‍🚀 Open Source Projects
+## 🧑‍🚀 Open Source Projects
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -243,7 +267,7 @@ mote Config, Firebase Database), MVC, Retrofit, REST API, XD Design to XML, MQQT
 ------------
 					  
 					  
-### 🧑‍🚀 Github Statistics
+## 🧑‍🚀 Github Statistics
   
 | Profile   | Languages  |
 | ------------ | ------------ |
@@ -252,7 +276,7 @@ mote Config, Firebase Database), MVC, Retrofit, REST API, XD Design to XML, MQQT
 ------------
 
 
-### 🧑‍🚀 Latest Tweets
+## 🧑‍🚀 Latest Tweets
 
  | Shahzad Afridi (@codewithafridi) |  Realtime Coding (@rtcoding)  |
 | :------------ | :------------ |
