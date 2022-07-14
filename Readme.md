@@ -10,7 +10,6 @@
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
 - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="shahzadafridi" height="20" width="20" /> Checkout my [Profile](https://stackoverflow.com/users/6672577/shahzad-afridi).
  
-------------
  
 ## 🧑‍🚀 Work Experience
 
@@ -50,8 +49,6 @@
 - Most of the projects didn't mention in my CV due to the agreement not making them public. During my freelancing career, I have worked most the with Google maps, location, Firebase, Bug fixes, Improvements, Play console issues,s and Working on Custom requirements based solution android app for the client.
 
 
-------------
-
 ## 🧑‍🚀 Skills set
 
 
@@ -73,8 +70,6 @@
 | Other |Custom Library , SDK designing ||
 etc....
   
-
-------------
 
 ## 🧑‍🚀 Languages & Tools
 
@@ -157,8 +152,7 @@ etc....
   </tr>
 </table>
  
- 
- ------------
+
 
 ## 🧑‍🚀 Projects
   <table>
@@ -221,8 +215,6 @@ mote Config, Firebase Database), MVC, Retrofit, REST API, XD Design to XML, MQQT
   <br/>
   
   
-  ------------
-  
   
 ## 🧑‍🚀 Open Source Projects
 
@@ -263,8 +255,6 @@ mote Config, Firebase Database), MVC, Retrofit, REST API, XD Design to XML, MQQT
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=Posty&theme=buefy" />
 </a> 
 
-
-------------
 					  
 					  
 ## 🧑‍🚀 Github Statistics
@@ -273,8 +263,6 @@ mote Config, Firebase Database), MVC, Retrofit, REST API, XD Design to XML, MQQT
 | ------------ | ------------ |
 | <a href="https://github.com/shahzadafridi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzadafridi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>   |  <a href="https://github.com/shahzadafridi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzadafridi&layout=compact&theme=buefy&hide_border=true" /></a>  |
 
-------------
-
 
 ## 🧑‍🚀 Latest Tweets
 
@@ -282,11 +270,4 @@ mote Config, Firebase Database), MVC, Retrofit, REST API, XD Design to XML, MQQT
 | :------------ | :------------ |
 | [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=codewithafridi&layout=wide)](https://github.com/codewithafridi/github-readme-twitter)  |  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=rtcoding&layout=wide)](https://github.com/rtcoding/github-readme-twitter) |
 
-
- 
-
-
-
-
-------------
 					  
