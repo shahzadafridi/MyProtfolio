@@ -165,7 +165,9 @@ mote Config, Firebase Database), MVC, Retrofit, REST API, XD Design to XML, MQQT
 | <a href="https://github.com/shahzadafridi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzadafridi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>   |  <a href="https://github.com/shahzadafridi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzadafridi&layout=compact&theme=buefy&hide_border=true" /></a>  |
 
 ------------
-					  
+
+
+### 🧑‍🚀 Latest Tweets
 
  | Shahzad Afridi (@codewithafridi) |  Realtime Coding (@rtcoding)  |
 | :------------ | :------------ |
