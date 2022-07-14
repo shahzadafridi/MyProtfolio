@@ -120,29 +120,37 @@ mote Config, Firebase Database), MVC, Retrofit, REST API, XD Design to XML, MQQT
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=Save-Life-Blood-Donor&theme=buefy"   />
-     <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
+</a> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=SensorDetectorDemoApp&theme=buefy"   />
-    <br/>
-	  <a href="https://github.com/anuraghazra/github-readme-stats">
+</a> 
+	
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=LinkedInManager&theme=buefy"   />
-    <br/>
-		  <a href="https://github.com/anuraghazra/github-readme-stats">
+</a> 
+	
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=MovieAppWithMVVM&theme=buefy" />
-     <br/>
-	  <a href="https://github.com/anuraghazra/github-readme-stats">
+</a> 
+	
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=FirebaseWithMVVM&theme=buefy"   />
-    <br/>
-		  <a href="https://github.com/anuraghazra/github-readme-stats">
+</a> 
+	
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=FCM-Notification-Test-Cases&theme=buefy"  />
-   <br/>
-			  <a href="https://github.com/anuraghazra/github-readme-stats">
+</a> 
+	
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=CalenderView&theme=buefy" />
-     <br/>
-				  <a href="https://github.com/anuraghazra/github-readme-stats">
+</a> 
+	
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=DistanceTrackingApp&theme=buefy"  />
-    <br/>
-					  <a href="https://github.com/anuraghazra/github-readme-stats">
+</a> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=Posty&theme=buefy" />
 </a> 
 
